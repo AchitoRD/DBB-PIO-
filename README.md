@@ -4,7 +4,7 @@
 # **🌐 Mi App Web Dinámica**
 
 🔴🟡🟢  
-**Desarrollada por:** AchitoRD  
+**Desarrollada por:** SALA GRUPO 8
 ⎯ ❐ ⤬  
 
 ---
